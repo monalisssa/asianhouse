@@ -1,0 +1,18 @@
+.navbar-nav{
+    grid-gap:60px;
+    margin-top: 15px;
+}
+
+.nav-link{
+   color: rgb(255,255,255,0.8);
+    transition: all 0.4s;
+}
+
+
+.nav-link:hover{
+    color: #FF6347;
+}
+
+.custom-navbar{
+  margin-right: 200px;
+}

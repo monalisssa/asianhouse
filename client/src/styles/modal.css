@@ -1,0 +1,41 @@
+/*
+.modal{
+
+
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .3s;
+}
+
+.active{
+    opacity: 1;
+    pointer-events: all;
+}
+.modal_content{
+
+
+    margin-bottom: 140px;
+    width: 30%;
+    height: 45%;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    transform: scale(0.5);
+    transition: all .3s;
+
+}
+
+.active{
+    transform: scale(1);
+}
+ */
+
