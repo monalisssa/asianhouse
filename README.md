@@ -11,11 +11,8 @@
 
 
 ## Using
-Расскажите как установить и использовать ваш проект, покажите пример кода:
 
-Установите npm-пакет с помощью команды:
-
-### Run Client
+# Run Client
 To install dependencies, run the command:
 ```sh
 $ npm i
@@ -25,17 +22,17 @@ To run start client app run the command:
 npm start
 ```
 
-### Run Server
+# Run Server
 You should create a database:
 ```sh
 $ mysql> create database asianhouse;
 ```
-### Change the application.properties file (your password and username):
+Change the application.properties file (your password and username):
 ```sh
 spring.datasource.username=YOUR PASSWORD
 spring.datasource.password=YOUR USERNAME
 ```
-### Run server
+# Run server
 
-Admin username: admin
-Admin password: 11111
+# Admin username: admin
+# Admin password: 11111
